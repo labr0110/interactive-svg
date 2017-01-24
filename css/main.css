@@ -14,15 +14,14 @@ html {
 @keyframes side {
 
   from {
-    transform: translate (20px)
+    transform: translate(20px);
   }
 
   to {
-    transform: translate(-20px)
+    transform: translate(-20px);
   }
 
 }
-
 
 #ears {
 
@@ -30,5 +29,5 @@ html {
 }
 
 #bear:hover #ears {
-  transform: translate(0, -20px)
+  transform: translate(0, -20px);
 }
